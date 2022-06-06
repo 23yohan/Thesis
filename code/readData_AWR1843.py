@@ -6,12 +6,9 @@ import pyqtgraph as pg
 # from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QApplication
 
-# TODO:Question 1 - is this the correct module?
-
 # Change the configuration file name
-# configFileName = 'testAWR1843config.cfg'
-configFileName = '14May2022TestconfigInit.cfg'
-# configFileName = 'testreadData.cfg'
+# configFileName = '/Users/matthew/Documents/University/Thesis/Thesis/configFiles/14May2022TestconfigInit.cfg'
+configFileName = '/Users/matthew/Documents/University/Thesis/Thesis/configFiles/basicProfile060622.cfg'
 
 CLIport = {}
 Dataport = {}

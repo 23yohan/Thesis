@@ -1,0 +1,4 @@
+# Ignore Directories
+venv/
+.DS_Store
+.idea/
